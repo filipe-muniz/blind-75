@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/filipe/Documents/NetBeansProjects/leetcode75/src/arrays_hashing/ContainsDuplicate.java</file>
-            <file>file:/C:/Users/filipe/Documents/NetBeansProjects/leetcode75/src/arrays_hashing/ValidaAnagram.java</file>
+            <file>file:/C:/Users/filipe/Documents/NetBeansProjects/leetcode75/src/arrays_hashing/TwoSum.java</file>
             <file>file:/C:/Users/filipe/Documents/NetBeansProjects/leetcode75/src/arrays_hashing/TopKFrequentElements.java</file>
+            <file>file:/C:/Users/filipe/Documents/NetBeansProjects/leetcode75/src/arrays_hashing/ContainsDuplicate.java</file>
+            <file>file:/C:/Users/filipe/Documents/NetBeansProjects/leetcode75/src/arrays_hashing/GroupAnagrams.java</file>
         </group>
     </open-files>
 </project-private>
